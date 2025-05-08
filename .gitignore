@@ -1,0 +1,8 @@
+# artifacts
+**/target/
+
+# related cargo
+**/Cargo.lock
+
+# backup files when updating rustc
+**/*.rs.bk
